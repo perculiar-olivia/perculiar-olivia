@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Thabitha Tshehla
 
-<!--
-**perculiar-olivia/perculiar-olivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Aspiring Data Engineer | Biokineticist transitioning into Data & Analytics
 
-Here are some ideas to get you started:
+I come from a background in Biokinetics and Health Sciences, where I developed strong analytical and research skills. I'm now transitioning into Data Engineering, learning how to design data pipelines, work with databases, and build systems that turn raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+Languages
+•	SQL
+Concepts
+•	Data Cleaning
+•	ETL Pipelines
+•	Data Modeling
+•	Data Analysis
+
+🌱 I’m currently learning:
+•	Data Engineering fundamentals
+•	Building ETL pipelines
+•	SQL and database design
+•	Data modelling and data warehousing
+•	Workflow orchestration tools
+
+💬 Ask me about books and baking.
