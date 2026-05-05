@@ -16,6 +16,7 @@ Concepts
 •	Data Analysis
 
 🌱 **I’m currently learning:**
+
 •	Data Engineering fundamentals
 •	Building ETL pipelines
 •	SQL and database design
